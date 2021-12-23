@@ -80,9 +80,9 @@
                                             stroke-linejoin="round"
                                         />
                                     </svg>
-                                    <p
+                                    <!-- <p
                                         class="text-xs absolute top-0 px-1 bg-red-500 rounded-full left-3"
-                                    >{{ commande.length }}</p>
+                                    >{{ commande.length }}</p> -->
                                 </button>
 
                                 <button
